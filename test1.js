@@ -8,3 +8,4 @@ function demo2(){
 
 let result = demo()
 let result2 = demo2()
+console.log('result is',result)
